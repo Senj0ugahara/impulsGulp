@@ -1,0 +1,13 @@
+:root {
+  // Базовые
+  --font-family: 'Roboto', sans-serif;
+  --container-width: 1230px;
+  --container-offset: 15px;
+  --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
+
+  // Цвета
+  --color-primary: #e3e3e3;
+
+  // Размеры
+  --grid-gap: 30px;
+}

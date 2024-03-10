@@ -1,0 +1,14 @@
+// Сброс стилей
+@import './vendor/normalize.css';
+
+// Базовые подключения
+@import 'fonts';
+@import 'settings';
+@import 'vars';
+
+// Подключение UI компонентов
+// @import "./components/nav";
+
+// Подключение компонентов страниц
+@import "./components/header";
+@import "./components/footer";

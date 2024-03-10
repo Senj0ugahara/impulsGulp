@@ -11,26 +11,26 @@
 
   Пример структуры:\
 
-    src/\
-      assets/\
-        images/\
-        fonts/\
-        video/\
-      scss/\
-        components/\
-          UI/\
-          _header.scss\
-          _footer.scss\
-        _fonts.scss\
-        _settings.scss\
-        _vars.scss\
-        main.scss\
-      scripts/\
-        js-file.js\
-      html/\
-        _header.html\
-        _footer.html\
-      index.html\\
+    src/
+      assets/
+        images/
+        fonts/
+        video/
+      scss/
+        components/
+          UI/
+          _header.scss
+          _footer.scss
+        _fonts.scss
+        _settings.scss
+        _vars.scss
+        main.scss
+      scripts/
+        js-file.js
+      html/
+        _header.html
+        _footer.html
+      index.html\
 
 ## 2. Инструменты и сервисы
   При разработке необходимо использовать gulp или webpack.\
